@@ -38,7 +38,7 @@ user feedback, now utilized in 15+ live projects, improving UI consistency.
                 <Button href="#contact" variant="primary">
                   Get In Touch <ArrowRight size={18} className="ml-2" />
                 </Button>
-                <a href="./src/data/Harshavardhan_podeti.pdf" className="inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg shadow hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
+                <a href="https://drive.google.com/file/d/1iz9FMobd331q1h4WJ3jh87-nAlLNUiYX/view?usp=drive_link" className="inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg shadow hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
                   Download CV <Download size={18} className="ml-2" />
                 </a>
               </div>
