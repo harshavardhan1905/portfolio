@@ -12,7 +12,7 @@ import './styles/animations.css';
 function App() {
   // Update page title
   useEffect(() => {
-    document.title = 'Your Name | Portfolio';
+    document.title = 'Harshavardhan Podeti | Portfolio';
   }, []);
 
   return (
