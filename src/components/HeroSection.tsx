@@ -58,7 +58,7 @@ const HeroSection: React.FC = () => {
   alt="Profile"
   className="w-full h-full object-cover"
 /> */}
-<p className='w-full h-full object-cover'> <AdvancedImage cldImg={img}/></p>
+{/* <p className='w-full h-full object-cover'> <AdvancedImage cldImg={img}/></p> */}
 
               </div>
             </div>
