@@ -31,7 +31,7 @@ const projects: Project[] = [
     id: 3,
     title: "Algorithm Performance Analyzer",
     description: "Developed a web-based Algorithm Performance Analyzer using Flask and React that dynamically evaluates and visualizes the runtime complexity of user-defined algorithms",
-    image: "https://www.researchgate.net/publication/355703886/figure/fig2/AS:1095563529469952@1638214108020/Algorithm-performance-analysis_Q320.jpg",
+    image: "https://raw.githubusercontent.com/harshavardhan1905/portfolio/refs/heads/main/src/data/Algorithm-performance-analysis_Q320.jpg",
     tags: ["React", "Node.js", "MongoDB"],
     demoUrl: "#",
     codeUrl: "#"
