@@ -54,6 +54,8 @@ const HeroSection: React.FC = () => {
               <div className="absolute inset-0 bg-blue-600/10 dark:bg-blue-400/10 rounded-full animate-pulse-slow"></div>
               <div className="absolute inset-4 bg-gradient-to-br from-blue-400 to-teal-1000 rounded-full overflow-hidden shadow-xl">
                <p>Hello img</p>
+     
+ <p className='w-full h-full object-cover'> <AdvancedImage cldImg={img}/></p> 
 
               </div>
             </div>
