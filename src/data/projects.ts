@@ -12,8 +12,7 @@ const projects: Project[] = [
   {
     id: 1,
     title: "Cold Mails Follow-UP (client)",
-    description: "I developed a custom email dashboard that allows a company to send structured emails to business clients while maintaining strict sending limits and system stability.
-                                    The system was designed to avoid third-party email conflicts (such as Mailchimp) and provide full control at admin and employee levels.",
+    description: "I developed a custom email dashboard that allows a company to send structured emails to business clients while maintaining strict sending limits and system stability. The system was designed to avoid third-party email conflicts (such as Mailchimp) and provide full control at admin and employee levels.",
     image: "https://github.com/harshavardhan1905/portfolio/blob/main/src/data/dashboard.png",
     tags: ["REACT", "BOOTSTRAP", "JAVASCRIPT", "MYSQL", "HOSTINGER", "NODE.JS", "EXPRESS.JS"],
     demoUrl: "#",
